@@ -30,7 +30,7 @@ def plot_feature_importances_cancer(model):
     plt.ylim(-1, n_features)
 
 def print_hi():
-    print('hi')
+    print('hi hi')
 
 # %% [markdown]
 # ## 1 Laden van de borstkanker dataset
