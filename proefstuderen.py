@@ -29,6 +29,9 @@ def plot_feature_importances_cancer(model):
     plt.ylabel("Feature")
     plt.ylim(-1, n_features)
 
+def print_hi():
+    print('hi')
+
 # %% [markdown]
 # ## 1 Laden van de borstkanker dataset
 # - 10 kolommen met kenmerken van de tumor.
